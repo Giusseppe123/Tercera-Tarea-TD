@@ -1,3 +1,4 @@
+#Giusseppe Marinelly y Arvelo
 class Nodo:
     def __init__(self, estudiante):
         self.estudiante = estudiante
